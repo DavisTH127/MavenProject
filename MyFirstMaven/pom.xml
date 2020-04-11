@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.platform.project</groupId>
+    <artifactId>MyFirstMaven</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+
+    <!--Adding Dependency to use maven This will allow us to use Junit in maven-->
+    <!--After adding the Dependency run "mvn clean install" in the terminal to update the build-->
+
+    <!--These are variables used in the dependencies-->
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <junit.junit.version>4.12</junit.junit.version>
+        <maven.compiler.source>1.7</maven.compiler.source>
+        <maven.compiler.target>1.7</maven.compiler.target>
+    </properties>
+
+    <!--Getting Junit and add the version-->
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>${junit.junit.version}</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+</project>

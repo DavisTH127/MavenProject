@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e67fbab5-26db-4d96-bcae-c69ee5403c5a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZunUPpfhU9O6l6nMNaZX4AtcQe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581835350893" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.JunitTest.checkString">
+    <configuration name="Assignment2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.platform.project.application.Assignment2" />
+      <module name="MyFirstMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.platform.project.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyFirstMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.platform.project.myTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.platform.project.myTest" />
+      <option name="MAIN_CLASS_NAME" value="com.platform.project.myTest.CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JunitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyFirstMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.platform.project.myTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.platform.project.myTest" />
+      <option name="MAIN_CLASS_NAME" value="com.platform.project.myTest.JunitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JunitTest.checkString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyFirstMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.platform.project.myTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.platform.project.myTest" />
+      <option name="MAIN_CLASS_NAME" value="com.platform.project.myTest.JunitTest" />
+      <option name="METHOD_NAME" value="checkString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Assignment2" />
+      <item itemvalue="JUnit.JunitTest" />
+      <item itemvalue="JUnit.CalculatorTest" />
+      <item itemvalue="JUnit.JunitTest.checkString" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JunitTest.checkString" />
+        <item itemvalue="JUnit.CalculatorTest" />
+        <item itemvalue="Application.Assignment2" />
+        <item itemvalue="JUnit.JunitTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e67fbab5-26db-4d96-bcae-c69ee5403c5a" name="Default Changelist" comment="" />
+      <created>1581201259629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581201259629</updated>
+      <workItem from="1581201262603" duration="8034000" />
+      <workItem from="1581751776708" duration="3618000" />
+      <workItem from="1581821128620" duration="7891000" />
+      <workItem from="1582342503197" duration="38000" />
+      <workItem from="1582877213482" duration="671000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20252000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1397" height="214" key="GridCell.Tab.0.bottom" timestamp="1586570357400">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1397" height="274" key="GridCell.Tab.0.bottom/0.23.1440.833/1440.-426.1920.1057@1440.-426.1920.1057" timestamp="1586497855070" />
+    <state width="1397" height="214" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1586570357400" />
+    <state width="1397" height="214" key="GridCell.Tab.0.center" timestamp="1586570357399">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1397" height="274" key="GridCell.Tab.0.center/0.23.1440.833/1440.-426.1920.1057@1440.-426.1920.1057" timestamp="1586497855070" />
+    <state width="1397" height="214" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1586570357399" />
+    <state width="1397" height="214" key="GridCell.Tab.0.left" timestamp="1586570357399">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1397" height="274" key="GridCell.Tab.0.left/0.23.1440.833/1440.-426.1920.1057@1440.-426.1920.1057" timestamp="1586497855070" />
+    <state width="1397" height="214" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1586570357399" />
+    <state width="1397" height="214" key="GridCell.Tab.0.right" timestamp="1586570357400">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1397" height="274" key="GridCell.Tab.0.right/0.23.1440.833/1440.-426.1920.1057@1440.-426.1920.1057" timestamp="1586497855070" />
+    <state width="1397" height="214" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1586570357400" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>13</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MyFirstMaven</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
